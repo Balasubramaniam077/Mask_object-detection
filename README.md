@@ -16,5 +16,5 @@
 <p>First off i Used the Yolov4 - Tiny in Darknet53 Framework.It has an amazing speed and Accuracy because it has a low parameters in base model of darknet Framework.</p>
 <p>After finish the Darknet Yolov4 - Tiny Model. I has been Seen the YOLO V5 model it has an amazing model compare to the Yolo V4 tiny.At time i suddenly move to yolov5 Small model.</p>
 <img src="https://github.com/Balasubramaniam077/Mask_object-detection/blob/main/scr/yolov4-tiny%20.png" alt="yolov4-tiny">
-<p style="align=center">YoloV4-TINY Architecture</p>
+<p align="center">YoloV4-TINY Architecture</p>
 </html>
