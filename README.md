@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <h1><u>Pandamic Mask Object Detection</u></h1>
-    <h2><u1>Introduction</u1></h2>
+    <h2>Introduction</h2>
     <p>In 2021 Pandamic time we are facing the lot of diffculties.Extractly wearing the mask in Public places and all other Opened public places with the crowd.In </p>
     <h3><u2>My Solution</u2></h3>
     <p>I am find the solution for wearing the mask aleart System using the Computer Vision and deep learning models</p>
