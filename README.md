@@ -11,5 +11,8 @@
     <p><b>-->wihtmask_incorrect</b></p> 
     <p><b>-->without_mask</b></p>
     <p>I using  the open datasets in Kaggle for the main 2 classes.There are "with_mask" and  "without_mask"</p>
-    <p>At the time i cannot get the other class for my solution that is mask incorrect position Dataset.So i am created the own an custom dataset for the class of wihtmask_incorrect position. I share the my collected custom dataset in my  <a href="https://drive.google.com/drive/folders/1zk9HYyKZD7Klu2l4pX1m03AqB6OO9ibw?usp=sharing">Drive Link</a></p>
+    <p>At the time i cannot get the other class for my solution that is mask incorrect position Dataset.So i am created the own an custom dataset for the class of wihtmask_incorrect position. I share the my collected custom dataset in my  <a href="https://drive.google.com/drive/folders/1zk9HYyKZD7Klu2l4pX1m03AqB6OO9ibw?usp=sharing">Drive Link</a>or Refer my dataset in <a href="https://www.w3schools.com">Kaggle!</a></p>
+ 
+    <h4> Model selection </h4>
+    <p>First off i Used the Yolov4 - Tiny in Darknet53 Framework.It has an amazing speed and Accuracy because it has a low parameters in base model of darknet Framework.</p>
 </html>
