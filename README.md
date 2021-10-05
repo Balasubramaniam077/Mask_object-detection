@@ -1,4 +1,3 @@
-# Mask_object-detection
 <!DOCTYPE html>
 <html>
     <h1><u>Pandamic Mask Object Detection</u></h1>
