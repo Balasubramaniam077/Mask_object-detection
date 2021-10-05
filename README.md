@@ -6,7 +6,7 @@
     <p>In 2021 Pandamic time we are facing the lot of diffculties.Extractly wearing the mask in Public places and all other Opened public places with the crowd.In </p>
     <h3><u2>My Solution</u2></h3>
     <p>I am find the solution for wearing the mask aleart System using the Computer Vision and deep learning models</p>
-    <h4><u3>Dataset</u3></h4>
+    <h4><u3><b>Dataset</b></u3></h4>
     <p>My Dataset classes are Mainly three there are :</p>
     <p><b>-->with_mask</b></p>
     <p><b>-->wihtmask_incorrect</b></p> 
