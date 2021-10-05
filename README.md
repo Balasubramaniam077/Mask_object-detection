@@ -18,4 +18,6 @@
 <h4>Architecture</h4>
 <img src="https://github.com/Balasubramaniam077/Mask_object-detection/blob/main/scr/yolov4-tiny%20.png" alt="yolov4-tiny" align="center">
 <p align="center">YoloV4-TINY Architecture</p>
+<img src="https://github.com/Balasubramaniam077/Mask_object-detection/blob/main/scr/yolov5.png" alt="yolov4-tiny" align="center">
+<p align="center">YoloV5 Architecture</p>
 </html>
