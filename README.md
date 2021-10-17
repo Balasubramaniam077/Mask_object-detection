@@ -20,4 +20,6 @@
 <p align="center">YoloV4-TINY Architecture</p>
 <img src="https://github.com/Balasubramaniam077/Mask_object-detection/blob/main/scr/yolov5.png" alt="yolov4-tiny" align="center">
 <p align="center">YoloV5 Architecture</p>
+    
+<p>In Improment of YOLOV5 is coming soon with very ligth model in pytorch</p>
 </html>
