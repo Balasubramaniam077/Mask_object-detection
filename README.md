@@ -25,5 +25,5 @@
     <h><b>My Model Prediction Demo:</b></h>
     
 <h><b>Conclusion</b></h>
-    
+<p>In this above project has customilze trained for some comapny Project and pattern works.It can be help full for the person who are working on Computer vision project.it has an not easy task to collect and preprocess the real images for the  Real time problem statement.
 </html>
