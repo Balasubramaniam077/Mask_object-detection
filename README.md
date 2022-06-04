@@ -16,8 +16,7 @@
     
 ![Screenshot 2022-06-04 184617](https://user-images.githubusercontent.com/67773609/172000780-453020a2-5aa4-41b1-81d9-6a88b1f00fb4.png)
 
-    
-    <h4><b> Model selection </b></h4>
+<h4><b> Model selection </b></h4>
 <p>First off i Used the Yolov4 - Tiny in Darknet53 Framework.It has an amazing speed and Accuracy because it has a low parameters in base model of darknet Framework.</p>
 <p>After finish the Darknet Yolov4 - Tiny Model. I has been Seen the YOLO V5 model it has an amazing model compare to the Yolo V4 tiny.At time i suddenly move to yolov5 Small model.</p>
 <h4>Architecture</h4>
