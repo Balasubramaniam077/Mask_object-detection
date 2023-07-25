@@ -27,12 +27,6 @@
 <p>In Improment of YOLOV5 is coming soon with very ligth model in pytorch</p>
 <p>As i created the model for implement in private Company with Covid-19 Precations it will create the alreat the employees to wear the mask.it can implemanted my project with CCTV Camera for tunning the livevideofed.As it will given an amazing result in live feeding</p>
 
-    
- <h1><b>UPCOMING UPDATES</b></h1>
-    
-<p> Adding the RestAPI in the model </p>
-<p> Create the Huge felid the model to deployment </p>
-
 <h><b>Conclusion</b></h>
 <p>In this above project has customilze trained for some comapny Project and pattern works.It can be help full for the person who are working on Computer vision project.it has an not easy task to collect and preprocess the real images for the  Real time problem statement.
 </html>
